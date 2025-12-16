@@ -19,4 +19,4 @@ for i in range(5):
     else:
         print("Bu kelime sozlukte yok.")
 
-print("Sozluk uygulamasi bitti, yine bekleriz!")
+print("Sozluk uygulamasi bitti, yine bekleriz!!")
